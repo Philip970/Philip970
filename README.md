@@ -49,7 +49,7 @@ I'm MANGA EWANE Philippe a Full Stack Developer. I Spend most of my time coding 
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/Islem%20Maboud%20Resume%20v2.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com)
 - :email: pmangaewane@gmail.com
 
 #### Github Stats
