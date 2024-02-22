@@ -2,7 +2,7 @@
 
 🚀 Check out my New Portfolio [philippemanga.com](https://philippemanga.com) 
 
-I'm MANGA EWANE Philippe a Full Stack Developer. I Spend most of my time coding projects or leaening new technologies.
+I'm MANGA EWANE Philippe a Full Stack Developer. I Spend most of my time coding outstanding projects or learning new technologies.
 
 :mailbox: Reach me out!
 
